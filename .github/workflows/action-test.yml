@@ -33,7 +33,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo what is installed in this directory?
-          is -a
+          Is -a
           echo
           echo is java installed?
           java -version
