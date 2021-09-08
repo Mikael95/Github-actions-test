@@ -36,5 +36,5 @@ jobs:
           is -a
           echo
           echo is java installed?
-          echo java -version
+          java -version
           
